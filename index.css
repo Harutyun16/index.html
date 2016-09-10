@@ -1,0 +1,91 @@
+body{
+
+	background-image:url(http://wallpapersrage.com/wp-content/uploads/2016/06/EWB0012594-facegfx-vector-the-city-silhouette-vector-1024x652.jpg);
+	background-size:100% 100%;
+}
+h1{
+
+	color:blue;
+	font-family:Verdana;
+	margin-left:15px;
+	background-color:white;
+	border:3px solid blue;
+	border-radius:3px;
+
+}
+#bb{
+	position:fixed;
+	float:left;
+	width:195px;
+	border:3px solid blue;
+	border-radius:2px;
+	margin-top:0px;
+	margin-left:15px;
+}
+h2{
+	position:fixed;
+	float:left;
+	background-color:#81BEF7;
+	color:blue;
+	margin-left:15px;
+	margin-right:1055px;
+	margin-top:210px;
+	border:3px dashed blue;
+	border-radius:3px;
+}
+ol li{
+
+color:blue;
+
+}
+ul li{
+background-color:white;
+color:blue;
+margin-left:370px;
+margin-right:560px;
+margin-top:40px;
+border:3px solid blue;
+}
+
+div{
+	position:fixed;
+	float:left;
+	background-color:white;
+	margin-left:15px;
+	margin-right:1055px;
+	margin-top:285px;
+	border:3px dashed blue;
+	border-radius:3px;
+}
+a:hover{
+	color:blue;
+}
+img{
+	border:2px solid white;
+	width:130px;
+	
+	
+}
+table{
+	margin-top:40px;
+	position:fixed;
+	
+	margin-left:850px;
+	border: 5px solid blue;
+	background-color:white;
+}
+th{
+	border:5px solid blue;
+	color:blue;
+	background-color:#81BEF7;
+
+}
+h3{
+border:5px solid blue;
+margin-top:20px;
+margin-left:400px;
+margin-right:760px;
+background-color:#81BEF7;
+color:blue;
+}
+ 
